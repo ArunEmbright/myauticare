@@ -60,6 +60,10 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 170%;
   height: auto;
 }
+.img-blog{
+  max-width: 50%;
+  max-height: auto;
+}
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
